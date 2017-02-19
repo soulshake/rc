@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s %(levelname)s %(message)s',
-                    filename='/home/aj/git/convox/sample-api-app/convox.log',
+                    filename='/tmp/rc.log',
                     filemode='w')
 
 
